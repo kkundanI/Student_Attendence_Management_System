@@ -50,8 +50,8 @@ And if you like this project then ADD a STAR ⭐️  to this project 👆
 1. Install Git Version Control
 [ https://git-scm.com/ ]
 
-2. Install Python Latest Version
-[ https://www.python.org/downloads/ ]
+2. Install Python Version
+[python 3.11.9(64- bit)]
 
 3. Install Pip (Package Manager)
 [ https://pip.pypa.io/en/stable/installing/ ]
