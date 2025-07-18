@@ -98,7 +98,7 @@ $  git clone https://github.com/kkundanI/Student_Attendence_Management_System.gi
 
 Then, Enter the project
 ```
-$  cd django-student-management-system
+$  cd Student_Attendence_Management_System
 ```
 
 **4. Install Requirements from 'requirements.txt'**
